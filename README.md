@@ -17,6 +17,6 @@ Water tank or container
 The water level indicator works on the principle of electrical conductivity of water. Metal probes are placed at different heights inside the tank. When water touches a probe, it completes an electrical path and activates the corresponding transistor circuit. The transistor switches on the LED associated with that water level.
 As the water level rises, the LEDs glow one after another, indicating the water level in the tank. When the water reaches the maximum level, the final LED glows, and an optional buzzer sounds to alert the user that the tank is full.
 ### SIMMULATION :
-https://wokwi.com/projects/478687359899593729
+https://wokwi.com/projects/479361723460973569
 ### Conclusion – Water Level Indicator :
 The water level indicator project is designed to monitor the water level in a tank and indicate the amount of water present. It helps prevent water overflow and reduces water wastage. The system operates using sensors or probes placed at different levels of the tank to indicate the water level. This project is simple, cost-effective, and useful for homes, industries, and other water storage applications. It helps conserve water and makes water management easier and more efficient.
